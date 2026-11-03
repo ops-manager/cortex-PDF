@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://g-ops-ai.fr/static/img/logo_G-Cortex-AI_v7.png" width="80" alt="Stirling PDF logo">
+  <img src="https://g-ops-ai.fr/static/img/logo_G-Cortex-AI_v7.png" width="300" alt="Cortex PDF logo">
 </p>
 
 <h1 align="center">Cortex PDF - seamless PDF editor</h1>
